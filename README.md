@@ -1,1 +1,1 @@
-# https://iitaa.github.io/Pomediantoimittajat.github.io/
+# https://iitaa.github.io/toimittajat.github.io/
