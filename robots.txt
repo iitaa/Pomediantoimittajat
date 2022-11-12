@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iitaa.github.io/toimittajat.github.io/sitemap.xml
