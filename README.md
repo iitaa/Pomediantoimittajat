@@ -1,1 +1,1 @@
-# https://iitaa.github.io/toimittajat.github.io/
+# https://iitaa.github.io/toimittajaat.github.io/
